@@ -1,3 +1,8 @@
 tasks:
   - init: npm install
     command: npm start
+
+vscode:
+  extensions:
+    - Angular.ng-template@0.901.6:HOEkuxWK4T565GnHtCUujg==
+    - johnpapa.Angular2@9.1.2:zMaYqbaVrWgYWYWDtzoAqw==
